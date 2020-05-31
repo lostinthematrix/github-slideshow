@@ -2,4 +2,4 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 Your text
-Use the left arrow to go back!
+*"Doing the same thing over and over again, doesn't mean progress"* -Probably not an ML engineer
